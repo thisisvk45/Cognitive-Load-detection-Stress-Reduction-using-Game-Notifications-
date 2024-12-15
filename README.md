@@ -45,7 +45,7 @@ The `data_analysis.py` script processes and analyzes the experimental data from 
 - Tracks HR trends during:
   - Pre-Break tasks (Logical & Math).
   - Post-Break interventions (Control: Social Media, Treatment: Tetris).
-- Visualizes HR trends over time with clear demarcations for task phases.
+- Visualizes HR trends over time with clear boundaries for task phases.
 
 ### **2. Accuracy Comparison**
 - Compares logical and mathematical task scores:
@@ -79,7 +79,7 @@ The `data_analysis.py` script processes and analyzes the experimental data from 
 ## **Ethical Considerations**
 1. All data is anonymized to protect participants' privacy.
 2. Participants provided informed consent for data collection.
-3. HR and performance data were monitored in compliance with ethical research guidelines.
+3. HR and performance data were monitored per ethical research guidelines.
 
 ---
 
@@ -87,5 +87,5 @@ The `data_analysis.py` script processes and analyzes the experimental data from 
 For any questions regarding this project, please contact:
 - **Team Name**: Tripod
 - **Email**: Vikas.kumar1@plaksha.edu.in
-- **Course**: Human-Tech Intercation
+- **Course**: Human-Tech Interaction
 
